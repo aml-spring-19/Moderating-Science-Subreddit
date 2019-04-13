@@ -109,4 +109,6 @@ venv.bak/
 #Pycharm
 .idea
 
-.pdf
+#To avoid pushing the data
+/data
+.csv
