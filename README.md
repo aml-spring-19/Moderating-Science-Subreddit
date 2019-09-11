@@ -6,6 +6,6 @@ The dataset is a csv of about 30k reddit comments made in /r/science between Jan
 
 (find the data here: https://www.kaggle.com/areeves87/rscience-popular-comment-removal)
 
-This project aims at accurately classifying removed comments, leveraging some NLP tools (using `scikit-learn` and `gensim`) , with the following questions in mind:
+This project aims at accurately classifying removed comments, leveraging some NLP tools (using `scikit-learn` and `nltk`) , with the following questions in mind:
 
 Can we help reduce moderator burnout by automating comment removal? What features are most predictive of popular comments getting removed?
